@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.eindopdracht.BE</groupId>
 	<artifactId>ReneWeerts</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>Pedicure Ambulant</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Project for Novi Hogeschool</description>
 	<properties>
 		<java.version>20</java.version>
 	</properties>
